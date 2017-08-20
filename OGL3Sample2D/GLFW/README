@@ -1,0 +1,19 @@
+Compile and run :
+1)To compile: make (or make clean and then make preferably, *requires libao and mpg123 libraries.)
+2)Then do ./sample2D to start the game
+
+
+Controls : 
+1) press W,A,S or D to move the cannon up,left,down or right
+2) press E to get the top view.
+3) press R to get the tower view. basket
+4) press U to get the firstperson view. red basket
+5) press I to get the follow camera view.
+6) press T or Y to rotate the camera from tower view.
+7) the green block enables a path, the blue block toggles the path and the colorless block removes red blocks from the path.
+
+Scoring : 
+1) Your score increases with increase in the number of moves to reach the goal.
+2) You need to minimize your score.
+
+
